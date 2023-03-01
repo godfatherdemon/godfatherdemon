@@ -1,5 +1,3 @@
-Hi, I’m @godfatherdemon. See you around.
-
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=godfatherdemon&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
